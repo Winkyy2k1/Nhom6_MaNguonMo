@@ -24,9 +24,9 @@
                                         <input type="text" value="{{$edit_value->brand_name}}" name="brand_product_name" class="form-control" id="exampleInputEmail1">
                                     </div>
                                     <div class="form-group">
-                                        <label for="exampleInputPassword1">Mô Tả Thương Hiệu</label>
+                                        <label for="exampleInputPassword1">Mô Tả</label>
                                         <textarea style="height:220px; resize:none;" name="brand_product_desc" class="form-control" id="exampleInputPassword1">{{$edit_value->brand_desc}}</textarea>
-                                    </div>                                                                 
+                                    </div>
                                     <button type="submit" name="update_brand_product" class="btn btn-info">Sửa Thương Hiệu</button>
                                 </form>
                             </div>

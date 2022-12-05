@@ -12,8 +12,8 @@
 							<input type="text" name="email_account" required="required" placeholder="Tài khoản" />
 							<input type="password" name="password_account" required="required" placeholder="Mật khẩu" />
 							<span>
-								<input type="checkbox" class="checkbox"> 
-								Ghi nhớ đắng nhập
+								<input type="checkbox" class="checkbox">
+								Ghi nhớ đăng nhập
 							</span>
 							<button type="submit" class="btn btn-default">Đăng Nhập</button>
 						</form>
@@ -23,7 +23,7 @@
 				<div class="col-sm-1">
 					<h2 class="or">Hoặc</h2>
 				</div>
-                
+
 				<div class="col-sm-4">
 					<div class="signup-form"><!--sign up form-->
 						<h2>Đăng Ký</h2>

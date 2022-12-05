@@ -32,7 +32,7 @@
                                             <option value="0">Ẩn</option>
                                             <option value="1">Hiển Thị</option>
                                         </select>
-                                    </div>                               
+                                    </div>
                                     <button type="submit" name="add_category_product" class="btn btn-info">Thêm Danh Mục</button>
                                 </form>
                             </div>
