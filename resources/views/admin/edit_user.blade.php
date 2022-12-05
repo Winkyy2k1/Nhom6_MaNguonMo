@@ -20,7 +20,7 @@
                         <form role="form" action="{{URL::to('/update-user/'.$edit_value->user_id)}}" method="post">
                             {{ csrf_field() }}
                             <div class="form-group">
-                                <label for="exampleInputEmail1">Tên Khách Hàng</label>
+                                <label for="exampleInputEmail1">Họ tên khách hàng</label>
                                 <input type="text" value="{{$edit_value->user_name}}" name="user_name" class="form-control" id="exampleInputEmail1">
                             </div>
                             <div class="form-group">
