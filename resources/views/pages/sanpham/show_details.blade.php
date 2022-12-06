@@ -84,7 +84,7 @@
 				<ul>
 					<li><a href=""><i class="fa fa-user"></i>EUGEN</a></li>
 					<li><a href=""><i class="fa fa-clock-o"></i>08:41 PM</a></li>
-					<li><a href=""><i class="fa fa-calendar-o"></i>12 July 2022</a></li>
+					<li><a href=""><i class="fa fa-calendar-o"></i>12 May 2022</a></li>
 				</ul>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
 				<p><b>Đánh Giá Của Bạn:</b></p>
